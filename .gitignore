@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.local
+.next/
+dist/
+uploads/
+*.log
+.DS_Store
+ref.html
+app.html
+root.html
+ref-components/
