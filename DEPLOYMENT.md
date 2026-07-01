@@ -1,4 +1,4 @@
-# AKKI STUDY X — Deployment Guide
+# NIKU STUDY X — Deployment Guide
 
 ## Architecture
 
