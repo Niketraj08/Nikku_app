@@ -1,6 +1,4 @@
-# AKKI STUDY X — Premium Edition
-
-A pixel-perfect clone of [akkistudy.netlify.app](https://akkistudy.netlify.app/) — a free-access educational video learning platform built with **React (Next.js 15)** and **Node.js (Express)**.
+# Niku STUDY X — Premium Edition
 
 ## Features
 
